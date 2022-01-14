@@ -1,0 +1,30 @@
+body{
+    
+    background-color: #ADD8E6       
+}
+
+p{
+    color:black;
+    font-size: 1.2em;
+    text-align: justify;
+    text-align: center;
+    }
+
+strong{
+    color:#2F4F4F ;
+        
+}
+
+img{
+    
+    text-align: center;
+}
+
+div{
+   text-align: center; 
+}
+h4{
+    font-size: 1.4em;
+    color: crimson;
+    text-align: center
+}
